@@ -1,3 +1,4 @@
 __pycache__/
 python.org.html
 config.py
+*.db
